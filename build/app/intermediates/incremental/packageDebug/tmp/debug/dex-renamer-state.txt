@@ -1,0 +1,4 @@
+#Thu Nov 25 16:45:35 WIB 2021
+base.0=/home/rendy/StudioProjects/Simple-Calculator/calcuator1/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
