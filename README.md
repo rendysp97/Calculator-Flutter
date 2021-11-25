@@ -1,4 +1,4 @@
-# calcuator1
+# calcuator
 
 A new Flutter project.
 
